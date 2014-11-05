@@ -32,7 +32,7 @@ The follow technologies are used like most VML projects:
 * Include any Javascript in the HTML file
 
 
-## Bouns
+## Bonus
 
 * Create the arrow using CSS shapes. 
 * Not using document ready
