@@ -8,22 +8,17 @@ The follow technologies are used like most VML projects:
 
 * jQuery
 * Bootstrap
+* LoDash
+* Node.js and NPM
 * SCSS
 * Grunt
 
-## Assumptions 
 
+## Assumptions 
 
 * The project sturcture is similar to what you will encounter with a VML project. 
 * Bootstrap is already included on the page so all classes, features and styling available Bootstrap is avaliable to be used. 
-* jQuery is also installed because of Bootstrap dependenecy on jQuery.
-
-
-## Instructions 
-
-1. Make sure the `app.scss` file is compiling into the `APP` directory. 
-2. Style the button to match creative using `SCSS`. 
-3. Add functionally to the button so that when it's clicked a modal will pop up. 
+* jQuery and LoDash are already installed. 
 
 
 ## Don'ts
@@ -32,9 +27,29 @@ The follow technologies are used like most VML projects:
 * Include any Javascript in the HTML file
 
 
+## Instructions 
+
+1. Install project dependencies through the Command Line
+2. Make sure the `app.scss` file is compiling into the `APP` directory. 
+3. Add HTML markup for a button and text input field
+4. Style the button to match creative using `SCSS`. 
+5. Style the input field using Bootstrap classes.
+6. Add functionally to the button so that when it's clicked a modal will pop up and display text that as been enter into the input box. 
+
+
+## Extra Challenge
+
+*	Uncommit the include list in the HTML file 
+*	Modifty the Click function to filter the list based on text entered into the input field.
+
+
 ## Bonus
 
+
+* Use a responsive container in your HTML
 * Create the arrow using CSS shapes. 
-* Not using document ready
+* Initize Javascript with out using $(document).ready()
+* Change button color and size based media queries 
+* Use BEM CSS class snytax in your HTML
 
 
