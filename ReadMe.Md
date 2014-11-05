@@ -23,7 +23,7 @@ The follow technologies are used like most VML projects:
 
 1. Make sure the `app.scss` file is compiling into the `APP` directory. 
 2. Style the button to match creative using `SCSS`. 
-3. Add functionally to the button so that when it's clicked pop up a modal. 
+3. Add functionally to the button so that when it's clicked a modal will pop up. 
 
 
 ## Don'ts
